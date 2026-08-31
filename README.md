@@ -20,6 +20,8 @@ Features include report copying, self-service email updates, and performance opt
 
 **[Kvant-AS](https://github.com/kvant-as/kvant-as-website/)** — Corporate website with admin panel, multilingual support (RU/EN), project catalog, news, and contact forms.  
 
+**[Supporter](https://github.com/kvant-as/virtual-support/)** — Online assistant that uses neural network APIs to provide context-aware guidance on any website by leveraging its FAQ section. 
+
 ---
 
 ## Contact  
