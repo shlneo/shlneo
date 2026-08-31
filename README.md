@@ -1,5 +1,3 @@
-### Python Developer | Flask & PostgreSQL  
-
 ## Tech Stack  
 
 
